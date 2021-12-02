@@ -1,4 +1,4 @@
-#object detection Study
+object detection Study
 
 1. object detection 대상 선정 <br>
 편의점 물품(스낵) 선정 <br> 
