@@ -16,12 +16,13 @@ Size : 2배율 차이 2종류 <br>
 <br>
 <br>
 4. Dataset Sample 사진<br>
-![image](https://user-images.githubusercontent.com/57925362/144345259-6b5a27b1-34f3-4bd3-8205-91790e810c46.png) <br>
-![image](https://user-images.githubusercontent.com/57925362/144345267-f6612f69-f19c-4699-b609-2c2151aa2d03.png) <br>
-![image](https://user-images.githubusercontent.com/57925362/144345271-140c24ea-def6-4626-be57-bf4fc021ad9b.png) <br>
-![image](https://user-images.githubusercontent.com/57925362/144345274-e4544c63-bce7-4003-a30e-761940307eaa.png) <br>
-![image](https://user-images.githubusercontent.com/57925362/144345278-68ba0d46-cc47-4435-b909-244b725371c4.png) <br>
-![image](https://user-images.githubusercontent.com/57925362/144345282-5e5a8189-d58c-4d5a-8e1e-823eb09b8e01.png) <br>
+![s1](https://user-images.githubusercontent.com/57925362/144350983-13c21ca5-e8bb-484d-9ce0-d9999c45b620.png)<br>
+![s2](https://user-images.githubusercontent.com/57925362/144350990-1e95f131-d90b-457b-ba93-1e33c6f84815.png)<br>
+![s3](https://user-images.githubusercontent.com/57925362/144350998-4b9ef49b-791e-4caa-874d-86e5282bb4c7.png)<br>
+![s4](https://user-images.githubusercontent.com/57925362/144351002-51d7daa6-7b85-4d5f-9d25-12babfccd652.png)<br>
+![s5](https://user-images.githubusercontent.com/57925362/144351005-fefe2f97-dcdc-490e-aee2-24439ad54f66.png)<br>
+![s6](https://user-images.githubusercontent.com/57925362/144351008-cb54f98c-25f2-40d5-bc78-3f6d4dea0535.png)<br>
+<br>
 <br>
 <br>
 
