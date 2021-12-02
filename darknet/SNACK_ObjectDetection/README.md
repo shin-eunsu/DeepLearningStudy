@@ -1,20 +1,20 @@
-object detection Study
+#object detection Study
 
-1. object detection 대상 선정 <br> 
- 편의점 물품(스낵) 선정 <br> 
-  (썬칩, 허니버터칩, 포카칩, 도리토스, 신짱, 꼬북칩) 6개 class 선정 <br> 
-  
+1. object detection 대상 선정 <br>
+편의점 물품(스낵) 선정 <br> 
+(썬칩, 허니버터칩, 포카칩, 도리토스, 신짱, 꼬북칩) 6개 class 선정 <br> 
+
 2. 데이터 생성 방법 및 데이터셋 수량 <br> 
 데이터 수집방법 : 사진촬영 <br> 
 데이터 셋 수량 (train: 1,756 / valid: 232 (전체사진에서 랜덤추출) <br> 
- <br> 
+
 3. 데이터셋 생성 시나리오 <br> 
 Rotation  45도 <br> 
 Angle : 0~90도 사이 4~5장 <br> 
 Size : 2배율 차이 2종류 <br> 
 배경 : 바닥, 책상 2종류 <br> 
-<br>
-<br>
+
+
 4. Dataset Sample 사진<br>
 ![s1](https://user-images.githubusercontent.com/57925362/144350983-13c21ca5-e8bb-484d-9ce0-d9999c45b620.png)<br>
 ![s2](https://user-images.githubusercontent.com/57925362/144350990-1e95f131-d90b-457b-ba93-1e33c6f84815.png)<br>
