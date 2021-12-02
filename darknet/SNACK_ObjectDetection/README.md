@@ -10,7 +10,7 @@ object detection Study
 
 3. 데이터셋 생성 시나리오 <br>
 Rotation : 45도 <br>
-Angle : 0~90도 사이 4~5장 <br>
+Angle : 0 ~ 90도 사이 4 ~ 5장 <br>
 Size : 2배율 차이 2종류 <br>
 배경 : 바닥, 책상 2종류 <br>
 
