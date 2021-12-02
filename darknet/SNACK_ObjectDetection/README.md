@@ -8,11 +8,11 @@ object detection Study
 데이터 수집방법 : 사진촬영 <br> 
 데이터 셋 수량 (train: 1,756 / valid: 232 (전체사진에서 랜덤추출) <br> 
 
-3. 데이터셋 생성 시나리오 <br> 
-Rotation  45도 <br> 
-Angle : 0~90도 사이 4~5장 <br> 
-Size : 2배율 차이 2종류 <br> 
-배경 : 바닥, 책상 2종류 <br> 
+3. 데이터셋 생성 시나리오 <br>
+Rotation : 45도 <br>
+Angle : 0~90도 사이 4~5장 <br>
+Size : 2배율 차이 2종류 <br>
+배경 : 바닥, 책상 2종류 <br>
 
 
 4. Dataset Sample 사진<br>
