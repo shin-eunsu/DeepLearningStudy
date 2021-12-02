@@ -41,7 +41,7 @@ Size : 2배율 차이 2종류 <br>
 <br> 
 
 7. 3차 학습<br>
-![그래프](https://user-images.githubusercontent.com/57925362/144350213-958568c9-8e77-44fd-a497-d3867a928e31.png)
+![그래프](https://user-images.githubusercontent.com/57925362/144350213-958568c9-8e77-44fd-a497-d3867a928e31.png)<br><br>
 ![3-1](https://user-images.githubusercontent.com/57925362/144350134-6737c539-db83-4367-a515-8ba94695266e.gif)
 ![3-2](https://user-images.githubusercontent.com/57925362/144350152-05b2dbc3-3408-46e5-99c4-d0c41689e656.gif)
 ![3-3](https://user-images.githubusercontent.com/57925362/144350162-4d793d79-ca23-4954-abd9-c47e37d14537.gif)
